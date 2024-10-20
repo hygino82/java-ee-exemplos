@@ -12,5 +12,8 @@ import javax.ejb.Local;
  */
 @Local
 public interface EjbConversorTemperaturaLocal {
-    
+
+    double celciusParaFahrenheit(double celcius);
+
+    double celciusParaKelvin(double celcius);
 }
