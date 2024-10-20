@@ -2,7 +2,6 @@ package br.jsf;
 
 import br.model.Parcela;
 import bri.ICalculadoraSac;
-import java.util.ArrayList;
 import java.util.List;
 import javax.ejb.EJB;
 import javax.inject.Named;
